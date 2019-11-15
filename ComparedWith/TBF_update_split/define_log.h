@@ -1,8 +1,0 @@
-#ifndef DEFINE_LOG_H
-#define DEFINE_LOG_H
-// define the log type
-#define RTE_LOGTYPE_SENSOR 	RTE_LOGTYPE_USER1
-#define RTE_LOGTYPE_FLOW	RTE_LOGTYPE_USER2
-#define RTE_LOGTYPE_HTB		RTE_LOGTYPE_USER3
-
-#endif
