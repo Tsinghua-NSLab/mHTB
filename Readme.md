@@ -1,3 +1,6 @@
+# Project
+The project is the codes for mHTB in ANCS'18. The paper is [Multi-Core HTB for Bandwidth Sharing](./mHTB_final.pdf).
+
 # Usage
 
 ## DPDK_demo
